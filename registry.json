@@ -4,8 +4,8 @@
 "https://raw.githubusercontent.com/hanxi/songloft-plugin-ytdlp/refs/heads/main/registry.json",
 "https://raw.githubusercontent.com/songloft-org/songloft-plugin-registry/main/registry.json",
 "https://raw.githubusercontent.com/hanxi/songloft-plugin-bili/refs/heads/main/registry.json",
-"https://raw.githubusercontent.com/fly818/lxmusic-plugin-release/main/registry.json",
-"https://raw.githubusercontent.com/deerwan/songloft-plugin-market/main/registry.json"
+"https://raw.githubusercontent.com/fly818/lxmusic-plugin-release/main/registry.json"
+""
   ],
   "plugins": [
     ""
